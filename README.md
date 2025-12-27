@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -57,3 +58,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+# Medivault
+Medivault is a secure, modern pharmacy management system built with Laravel, MySQL, and Tailwind CSS. It features role-based access, inventory tracking, prescription handling, sales &amp; POS, and real-time analytics, delivering a scalable, enterprise-grade solution for retail and hospital pharmacies.
+>>>>>>> 14fe96f8127661eaf55746d7779584ffa3c184e4
